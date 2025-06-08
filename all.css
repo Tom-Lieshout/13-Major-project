@@ -1,0 +1,104 @@
+.Results1 {
+  background-image: url('Results.png');
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+}
+.Results2{
+  background-image: url('Results.png');
+  border: none;
+  color: white;
+  padding: 16px 32px;    text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%,50%);
+  }
+  
+.Edit1{
+  background-image: url('Edit.png');
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  }
+  
+.Edit2{
+  background-image: url('Edit.png');
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;-ms-transform: translate(-50%, -50%);
+  transform: translate(-50%,50%);
+}
+
+.Home1{
+  background-image: url('Home.png');
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+}
+
+.Home2{
+  background-image: url('Home.png');
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.highlight-box {
+  background-color: yellow;
+}
